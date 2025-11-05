@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "a30272218a976ba4",
+    "type": "split",
+    "children": [
+      {
+        "id": "6329dc2c00e3638c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ffba07abbb3c971",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b21b5f990fc3dcdd",
+    "type": "split",
+    "children": [
+      {
+        "id": "169a4da65ce3c69a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d15216a684ff9a29",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "15d0bcc276d19617",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "12850ec719e6a6d1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8981f44bcf277ecd",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2c9f024259d454f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "162591c70d7d2d83",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "db076d5c15998aa6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c273a2fc32d93646",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d803669092c19c9d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "smart-random-note:Open Random Note from Search": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "0ffba07abbb3c971",
+  "lastOpenFiles": [
+    "6 - Main Notes/Foundations.md",
+    "6 - Main Notes/ECS Tasks & Scheduling.md",
+    "Ink/Writing/2024.9.30 - 13.42pm.writing",
+    "Ink/Writing",
+    "Ink",
+    "Excalidraw/Foundations 2024-09-30 13.34.17.excalidraw.md",
+    "Excalidraw/Foundations 2024-09-30 12.42.18.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-30 12.41.35.excalidraw.md",
+    "Excalidraw",
+    "6 - Main Notes/Java.md",
+    "6 - Main Notes/Build Automation Tools.md",
+    "3 - Tags/Software Engineering.md",
+    "6 - Main Notes/UntitledUntitled.md",
+    "6 - Main Notes/full note.md",
+    "6 - Main Notes/Untitled 2.md",
+    "6 - Main Notes/Untitled 1.md",
+    "6 - Main Notes/Jenkins.md",
+    "6 - Main Notes/JP Morgan Week 1 2024.md",
+    "6 - Main Notes/JP Morgan Summer Internship 2024.md",
+    "6 - Main Notes/Gradle.md",
+    "6 - Main Notes/ECS Services.md",
+    "6 - Main Notes/ECS Task Definitions.md",
+    "6 - Main Notes/ECS Cluster.md",
+    "6 - Main Notes/Containers.md",
+    "6 - Main Notes/ECS.md",
+    "6 - Main Notes/Docker.md",
+    "6 - Main Notes/SRE (Site Reliability Engineering).md",
+    "0 - Assets/Pasted image 20240621120732.png",
+    "0 - Assets/Pasted image 20240621120727.png",
+    "0 - Assets/Pasted image 20240621120027.png",
+    "0 - Assets/Pasted image 20240621115943.png",
+    "0 - Assets/Pasted image 20240621115508.png",
+    "0 - Assets/Pasted image 20240621104051.png",
+    "0 - Assets/Pasted image 20240621104033.png",
+    "6 - Main Notes/Docker vs ECS.md",
+    "6 - Main Notes/[.md",
+    "0 - Assets/Pasted image 20240620173242.png",
+    "0 - Assets",
+    "2 - Source Material/Videos",
+    "2 - Source Material/Podcasts",
+    "2 - Source Material/Papers",
+    "2 - Source Material/Other",
+    "2 - Source Material/Books"
+  ]
+}
